@@ -4,18 +4,20 @@
     "url": "https://www.roan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.roan.dev.ico",
     "slug": "roan-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 198,
-    "timeWeek": 170,
-    "timeMonth": 178,
-    "timeYear": 183,
-    "dailyMinutesDown": {}
+    "time": 333,
+    "timeDay": 5293,
+    "timeWeek": 1447,
+    "timeMonth": 497,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-11-04": 1
+    }
   },
   {
     "name": "Apex Rotation",
