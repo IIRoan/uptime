@@ -4,19 +4,19 @@
     "url": "https://www.roan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.roan.dev.ico",
     "slug": "roan-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 5293,
-    "timeWeek": 1447,
-    "timeMonth": 497,
-    "timeYear": 333,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 331,
+    "timeDay": 3587,
+    "timeWeek": 1306,
+    "timeMonth": 488,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-11-04": 1
+      "2024-11-04": 18
     }
   },
   {
