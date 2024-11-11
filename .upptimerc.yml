@@ -9,8 +9,6 @@ sites:
     url: https://apex.roan.dev
   - name: LinkApp
     url: https://links.roan.dev
-  - name: Github-Readme
-    url: https://desc.roan.dev/api/github-readme
     
 assignees:
   - IIRoan
