@@ -8,9 +8,11 @@ sites:
   - name: Apex Rotation
     url: https://apex.roan.dev
   - name: LinkApp
-    url: https://links.roan.dev
+    url: https://links.roan.dev/roan
   - name: Github-Readme
     url: https://readme.roan.dev
+  - name: LinkApp home
+    url: https://links.roan.dev/roanhome
     
 assignees:
   - IIRoan
