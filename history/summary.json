@@ -24,19 +24,19 @@
     "url": "https://apex.roan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/apex.roan.dev.ico",
     "slug": "apex-rotation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 153,
-    "timeWeek": 206,
-    "timeMonth": 350,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 212,
+    "timeDay": 229,
+    "timeWeek": 225,
+    "timeMonth": 351,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 22
     }
   },
   {
