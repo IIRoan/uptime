@@ -24,18 +24,20 @@
     "url": "https://apex.roan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/apex.roan.dev.ico",
     "slug": "apex-rotation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 182,
-    "timeWeek": 218,
-    "timeMonth": 358,
+    "timeDay": 153,
+    "timeWeek": 206,
+    "timeMonth": 350,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "LinkApp",
